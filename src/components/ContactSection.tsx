@@ -14,7 +14,7 @@ const ContactSection = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
           {[
-            { icon: Phone, title: "Phone", info: "+254 700 000 000", sub: "+254 711 000 000" },
+            { icon: Phone, title: "Phone", info: "+254 700 000 000", sub: "+254 701508962" },
             { icon: Mail, title: "Email", info: "info@sopsop.co.ke", sub: "orders@sopsop.co.ke" },
             { icon: MapPin, title: "Location", info: "Mombasa, Kenya", sub: "Kilifi, Kenya" },
             { icon: Clock, title: "Working Hours", info: "Mon - Sat: 6AM - 6PM", sub: "Sunday: Closed" },
